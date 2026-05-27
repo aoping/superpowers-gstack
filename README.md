@@ -9,7 +9,7 @@
 > 于是我干了一件事：把 superpowers（执行层）\+ gstack（决策层）\+ GSD（上下文层）打包成一个技能 —— `superpowers\-gstack`，让任何coding agent，都能用同一套「AI 全栈团队」工作流冲刺开发。
 > 
 > **github地址：****https://github\.com/aoping/superpowers\-gstack**
-> 
+> 核心思想参考：https://dev.to/imaginex/a-claude-code-skills-stack-how-to-combine-superpowers-gstack-and-gsd-without-the-chaos-44b3
 > 
 
 ---
